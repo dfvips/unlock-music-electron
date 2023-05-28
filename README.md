@@ -30,7 +30,7 @@
    ```
 - 前端静态页面构建后的产物可以在 `dist` 目录找到。
 - Electron构建后的产物可以在 `build-dist` 目录找到。
-- 如果是用于开发，可以执行 `npm run build & npm start`。
+- 如果是用于开发，可以执行 `npm run build & npm install --save-dev electron & npm start`。
 
 ## 开箱即用版本
 
